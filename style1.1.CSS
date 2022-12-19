@@ -1,0 +1,115 @@
+html, body {
+    background-image: url(image/4.png);
+    margin: 0;
+    padding: 0;   
+    background-size: 100%;
+}
+
+.top-header {
+    background-color: orange;
+}
+
+.home {    
+    font-size: 35px;
+    display: inline-block;
+    margin: 10px;
+    padding: 0;
+}
+
+.home1 {
+    display: inline-block;
+    margin: 5px;
+    padding: 0;
+}
+
+.nav ul {
+    list-style: none;
+    color: black;
+    padding: 15px;
+    margin: 0px;
+}
+
+.nav li {
+    line-height: 50px;
+}
+
+.nav a {
+    text-decoration: none;
+    background-color: orange;
+    color: black;
+    display: block;
+    padding-left: 15px;
+    transition: .2s;
+    
+}
+
+.nav ul li ul li {
+    background-color: black;
+    padding: 1px;
+}
+
+.nav a:hover {
+    background-color: darkorange;
+}
+
+.nav li ul {
+    position: absolute;
+    display: none;
+    width: inherit;
+}
+
+.nav li:hover ul {
+    display: block;
+}
+
+.nav li ul li {
+    margin: 0;
+    padding: 5px;
+}
+
+.main-content {
+    max-width: 700px;
+    margin: auto;
+}
+
+.box1 {
+    background-color: aliceblue;
+    margin: 30px;
+    padding: 20px;
+}
+
+.heading {
+    background-color: orange;
+    margin: 0px;
+    padding: 20px;
+}
+
+.image1 {
+    width: 100%;
+}
+
+.image2 {
+    width: 20px;
+}
+
+.image3 {
+    width: 10px;
+}
+
+.image4 {
+    width: 10px;
+}
+
+.link1 {
+    color: black;
+    background-color: orange;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.bottom-footer {
+    background-color: orange;
+    padding: 10px;
+    text-align: center;
+}

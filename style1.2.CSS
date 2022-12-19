@@ -1,0 +1,66 @@
+html, body {
+    background-image: url(image/4.png);
+    margin: 0;
+    padding: 0;   
+    background-size: 100%;
+}
+
+.top-header {
+    background-color: orange;
+}
+
+.menu-web {
+    color: black;
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.menu-web-01 {
+    color: black;
+    padding: 15px;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.main-content {
+    max-width: 700px;
+    margin: auto;
+}
+
+.box1 {
+    background-color: aliceblue;
+    margin: 30px;
+    padding: 20px;
+}
+
+.image1 {
+    width: 100%;
+}
+
+.image2 {
+    width: 20px;
+}
+
+.image3 {
+    width: 10px;
+}
+
+.image4 {
+    width: 10px;
+}
+
+.link1 {
+    color: black;
+    background-color: orange;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.bottom-footer {
+    background-color: orange;
+    padding: 10px;
+    text-align: center;
+}
