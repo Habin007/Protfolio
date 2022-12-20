@@ -112,5 +112,5 @@ html, body {
     background-color: orange;
     padding: 10px;
     text-align: center;
-    display: inline-block;
+    display: block;
 }
